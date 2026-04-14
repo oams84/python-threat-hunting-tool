@@ -15,6 +15,7 @@ Reason: No match found in local threat feed
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
