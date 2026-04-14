@@ -1,0 +1,2 @@
+Timestamp,Alert Type,IP,Failed Attempts,Threat Intel,Reason
+2026-04-13T23:20:22.506792-04:00,Brute Force Suspected,127.0.0.1,2,Unknown,No match found in local threat feed

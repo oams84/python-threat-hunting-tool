@@ -1,0 +1,10 @@
+[
+    {
+        "type": "Brute Force Suspected",
+        "ip": "127.0.0.1",
+        "failed_attempts": 2,
+        "timestamp": "2026-04-13T23:20:22.506792-04:00",
+        "threat_intel": "Unknown",
+        "reason": "No match found in local threat feed"
+    }
+]

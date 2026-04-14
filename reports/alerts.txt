@@ -1,0 +1,1 @@
+Timestamp: 2026-04-13T23:20:22.506792-04:00 | Alert Type: Brute Force Suspected | IP: 127.0.0.1 | Failed Attempts: 2 | Threat Intel: Unknown | Reason: No match found in local threat feed
