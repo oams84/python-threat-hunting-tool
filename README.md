@@ -1,4 +1,10 @@
-# Python Threat Hunting Tool
+# 🔐 Python Threat Hunting & Incident Response Tool
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Platform](https://img.shields.io/badge/Platform-Ubuntu-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
 
 A Python-based threat hunting and incident response project built on Ubuntu Linux. This tool parses authentication logs, detects brute-force login attempts, enriches suspicious IPs with threat intelligence, and exports alerts in multiple formats.
 
