@@ -11,6 +11,21 @@ Failed Attempts: 2
 Threat Intel: Unknown
 Reason: No match found in local threat feed
 
+## 🧩 System Architecture
+
+```mermaid
+flowchart TD
+    A[/var/log/auth.log/] --> B[Real-Time Monitor]
+    B --> C[Parser]
+    C --> D[Detection Engine]
+    D --> E[Threat Intelligence]
+    E --> F[Alert Generation]
+    F --> G[Reports TXT/CSV/JSON]
+    F --> H[Automated Response]
+    H --> I[UFW Firewall Block]
+
+
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu-orange)
