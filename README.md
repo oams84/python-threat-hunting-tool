@@ -1,5 +1,16 @@
 # 🔐 Python Threat Hunting & Incident Response Tool
 
+## 🚨 Live Demo (Real-Time Detection)
+
+This tool monitors authentication logs in real time and detects SSH brute-force attacks.
+
+Example output:
+[ALERT] Timestamp: 2026-04-14T00:05:04
+IP: 127.0.0.1
+Failed Attempts: 2
+Threat Intel: Unknown
+Reason: No match found in local threat feed
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu-orange)
